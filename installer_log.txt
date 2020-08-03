@@ -1,0 +1,4 @@
+ { "hostname" : "DESKTOP", 
+ "firefox":"done" ,
+ "putty":"done" 
+ } 
